@@ -1,12 +1,12 @@
 {
-    "id": "2DFFB9B9",
-    "path": "C:/Users/user/OneDrive/Masaüstü/gulselikirgil.github.io/gulselikirgil.github.io/index.qmd",
+    "id": "17BD40B1",
+    "path": "C:/Users/user/OneDrive/Masaüstü/gulselikirgil.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
     "hash": "2011164820",
     "contents": "",
     "dirty": false,
-    "created": 1745501893829.0,
+    "created": 1745502136005.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1745501906,
+    "lastKnownWriteTime": 1745502145,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1745501906165,
+    "last_content_update": 1745502145169,
     "read_only": false,
     "read_only_alternatives": []
 }
